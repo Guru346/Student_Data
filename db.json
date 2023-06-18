@@ -1,0 +1,60 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "clas": "9th",
+      "name": "Ravi",
+      "city": "Banglore",
+      "mobile": 8978987898
+    },
+    {
+      "id": 3,
+      "clas": "10th",
+      "name": "Arun",
+      "city": "Banglore",
+      "mobile": 8978987898
+    },
+    {
+      "id": 4,
+      "clas": "8th",
+      "name": "sanjay",
+      "city": "Banglore",
+      "mobile": 8978987898
+    },
+    {
+      "id": 5,
+      "clas": "10th",
+      "name": "Sanjith",
+      "city": "challakere",
+      "mobile": "8741256398"
+    },
+    {
+      "id": 6,
+      "clas": "9th",
+      "name": "Shivu",
+      "city": "Manglore",
+      "mobile": "9748558498"
+    },
+    {
+      "id": 7,
+      "clas": "8th",
+      "name": "Dharshan",
+      "city": "Hassan",
+      "mobile": "9854785456"
+    },
+    {
+      "id": 8,
+      "clas": "10th",
+      "name": "Surya",
+      "city": "Banglore",
+      "mobile": "956986598"
+    },
+    {
+      "id": "9",
+      "clas": "10th",
+      "name": "Avi",
+      "city": "Banglore",
+      "mobile": 8978987898
+    }
+  ]
+}
